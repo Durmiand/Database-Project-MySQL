@@ -1,2 +1,2 @@
 # Database-Project-MySQL
-A Pharmacy modeling project using MySQL database.
+Modeling a pharmacy database using MySQL.
